@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AhbasShah/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Creating a VM in Azure](https://github.com/joshmadakorcc/configure-ad)
+  - [Creating a VM in Azure](https://github.com/AhbasShah/VirtualMachine)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
